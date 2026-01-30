@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1CC0705C-63B2-B568-C4C7-6A29B57AB287}</ProjectGuid>
+    <ProjectGuid>{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,14 +58,20 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MushroomCounter.cs" />
-    <Compile Include="Assets\ResultTextRange.cs" />
-    <Compile Include="Assets\ResultManager.cs" />
-    <Compile Include="Assets\MushroomSpawner.cs" />
-    <Compile Include="Assets\PlayerMove.cs" />
+    <Compile Include="Assets\ko-do\PlayerMove.cs" />
+    <Compile Include="Assets\ko-do\MushroomCounter.cs" />
+    <Compile Include="Assets\ko-do\DayTimer.cs" />
+    <Compile Include="Assets\ko-do\ResultTextRange.cs" />
+    <Compile Include="Assets\ko-do\BadMushroom.cs" />
+    <Compile Include="Assets\ko-do\FlashLightController.cs" />
+    <Compile Include="Assets\ko-do\MushroomSpawner.cs" />
+    <Compile Include="Assets\ko-do\ResultManager.cs" />
+    <Compile Include="Assets\ko-do\DayNightController.cs" />
+    <Compile Include="Assets\ko-do\BatteryController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Mushroom Forest\Shaders\Normal-BumpSpecRim.shader" />
+    <None Include="Assets\Fantasy Forest Environment Free Sample\StandardNoCulling.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

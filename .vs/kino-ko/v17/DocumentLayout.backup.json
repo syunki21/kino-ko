@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\kino-ko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\kino-ko\\assets\\ko-do\\mushroomspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|solutionrelative:assets\\ko-do\\mushroomspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\kino-ko\\assets\\ko-do\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|solutionrelative:assets\\ko-do\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\kino-ko\\assets\\ko-do\\batterycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|solutionrelative:assets\\ko-do\\batterycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\kino-ko\\assets\\ko-do\\resultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|solutionrelative:assets\\ko-do\\resultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\kino-ko\\assets\\ko-do\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|solutionrelative:assets\\ko-do\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\kino-ko\\assets\\ko-do\\mushroomcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|solutionrelative:assets\\ko-do\\mushroomcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\kino-ko\\assets\\ko-do\\daynightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|solutionrelative:assets\\ko-do\\daynightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\kino-ko\\assets\\ko-do\\daytimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23CF21F-830D-7CE0-78D1-26D97B7E23B0}|Assembly-CSharp.csproj|solutionrelative:assets\\ko-do\\daytimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BatteryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\BatteryController.cs",
+              "RelativeDocumentMoniker": "Assets\\ko-do\\BatteryController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\BatteryController.cs",
+              "RelativeToolTip": "Assets\\ko-do\\BatteryController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:08:19.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\ResultManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ko-do\\ResultManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\ResultManager.cs",
+              "RelativeToolTip": "Assets\\ko-do\\ResultManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T12:55:58.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\ko-do\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\ko-do\\PlayerMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T12:55:54.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MushroomSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\MushroomSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\ko-do\\MushroomSpawner.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\MushroomSpawner.cs",
+              "RelativeToolTip": "Assets\\ko-do\\MushroomSpawner.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvzkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T12:55:34.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MushroomCounter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\MushroomCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\ko-do\\MushroomCounter.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\MushroomCounter.cs",
+              "RelativeToolTip": "Assets\\ko-do\\MushroomCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T12:55:29.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlashLightController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\FlashLightController.cs",
+              "RelativeDocumentMoniker": "Assets\\ko-do\\FlashLightController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\FlashLightController.cs",
+              "RelativeToolTip": "Assets\\ko-do\\FlashLightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T12:40:16.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DayNightController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\DayNightController.cs",
+              "RelativeDocumentMoniker": "Assets\\ko-do\\DayNightController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\DayNightController.cs",
+              "RelativeToolTip": "Assets\\ko-do\\DayNightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:11:02.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DayTimer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\DayTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\ko-do\\DayTimer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\kino-ko\\Assets\\ko-do\\DayTimer.cs",
+              "RelativeToolTip": "Assets\\ko-do\\DayTimer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:07:11.369Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
